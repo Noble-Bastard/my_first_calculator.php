@@ -1,7 +1,6 @@
 <?php
-      // my_first_calculator.c by Shellc0d3
-      // C implementation of my_first_calculator.py by AceLewis
-      // TODO: Make it work for all floating point numbers too
+      // my_first_calculator.php by DragonBastard
+      // PHP implementation of my_first_calculator.py by AceLewis
 
       echo "\nДобро Пожаловать в мой божественный Калькулятор на PHP!\n";
       echo "\nОн может складывать, вычитать, умножать и делить целые числа от 0 до 50.\n";
